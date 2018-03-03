@@ -1,8 +1,3 @@
-[Virus Total Scan PASSED: 0/59](https://www.virustotal.com/#/file/b5e0169607caa65061d0bb04dfc891caa5c35bb86be87436c9724465fa4a2ab3/detection)
-
-SHA256: b5e0169607caa65061d0bb04dfc891caa5c35bb86be87436c9724465fa4a2ab3
-executable name: ./maps
-
 What it can do:
 - Create an Array and perform functions as a datatype Maps
 - Create a List and perform functions as a datatype Maps
